@@ -5,3 +5,4 @@
 ## Git チュートリアル
 
   - feature-A
+  - feature-C
